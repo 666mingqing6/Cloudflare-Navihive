@@ -7,6 +7,12 @@
     "name": "navihive",
     "main": "worker/index.ts",
     "compatibility_date": "2025-04-05",
+    
+    // 添加以下配置以启用Node.js兼容性
+    "compatibility_flags": [
+        "nodejs_compat"
+    ],
+    
     "assets": {
         "not_found_handling": "single-page-application"
     },
