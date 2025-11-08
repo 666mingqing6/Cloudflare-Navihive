@@ -28,7 +28,7 @@
         }
     ],
     "vars": {
-        "AUTH_ENABLED": "false",
+        "AUTH_ENABLED": "true",
         "AUTH_USERNAME": "mingqing",
         "AUTH_PASSWORD": "Xia12345678",
         "AUTH_SECRET": "linuxdo"
