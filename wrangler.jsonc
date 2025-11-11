@@ -35,3 +35,19 @@
         "AUTH_REQUIRED_FOR_READ": "false"
     }
 }
+
+{
+  "observability": {
+    "logs": {
+      "enabled": true,
+      "head_sampling_rate": 1,
+      "persist": true,
+      "invocation_logs": true
+    },
+    "traces": {
+      "enabled": true,
+      "head_sampling_rate": 1,
+      "persist": true
+    }
+  }
+}
