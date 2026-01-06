@@ -24,8 +24,8 @@
     "vars": {
         "AUTH_ENABLED": "true",
         "AUTH_USERNAME": "linuxsu",
+        "AUTH_REQUIRED_FOR_READ": "true",
         "AUTH_PASSWORD": "linuxsu",
         "AUTH_SECRET": "2;y8Tl@*>Sh3Z>JgDtF[{(hAV#76p6Hn"
     }
 }
-
