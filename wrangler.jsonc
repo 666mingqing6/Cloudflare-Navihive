@@ -25,10 +25,11 @@
         "AUTH_ENABLED": "true",
         "AUTH_USERNAME": "mingqing",
         "AUTH_REQUIRED_FOR_READ": "false",
-        "AUTH_PASSWORD": "c925c08c2c276a6b8ec5863d474db5235ea91459af04a9f57184ad039b38d213",
+        "AUTH_PASSWORD": "$2a$10$nlTysnaQNr9cJGFW9Ekvq.JMmwfkF0cCbTVIDsg9UbgYH4sPXuPYu",
         "AUTH_SECRET": "2;y8Tl@*>Sh3Z>JgDtF[{(hAV#76p6Hn"
     }
 }
+
 
 
 
