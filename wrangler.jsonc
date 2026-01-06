@@ -24,9 +24,10 @@
     "vars": {
         "AUTH_ENABLED": "true",
         "AUTH_USERNAME": "mingqing",
-        "AUTH_REQUIRED_FOR_READ": "true",
+        "AUTH_REQUIRED_FOR_READ": "false",
         "AUTH_PASSWORD": "c925c08c2c276a6b8ec5863d474db5235ea91459af04a9f57184ad039b38d213",
         "AUTH_SECRET": "2;y8Tl@*>Sh3Z>JgDtF[{(hAV#76p6Hn"
     }
 }
+
 
