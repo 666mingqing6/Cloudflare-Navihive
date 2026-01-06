@@ -4,7 +4,7 @@
  */
 {
     "$schema": "node_modules/wrangler/config-schema.json",
-    "name": "navihive",
+    "name": "123navihive",
     "main": "worker/index.ts",
     "compatibility_date": "2025-04-05",
     "assets": {
@@ -29,5 +29,6 @@
         "AUTH_SECRET": "2;y8Tl@*>Sh3Z>JgDtF[{(hAV#76p6Hn"
     }
 }
+
 
 
